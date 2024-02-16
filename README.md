@@ -8,7 +8,7 @@ Computer Science student at UniGE
 
 * I'm based near Genoa
 * You can contact mer at [andrea@valgraveglia.net](mailto:andrea@valgraveglia.net)
-My Website: andrewasterix.github.io
+* My Website: andrewasterix.github.io
 
 ### Skills
 <p align="left">
