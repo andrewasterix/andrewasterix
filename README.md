@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrea
+Hello There! 👋 My name is Andrea
 ====================================
 
 *   🌍  I'm based in Genoa
